@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+mix-manifest.json
+assets/js/script.min.js.LICENSE.txt
